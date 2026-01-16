@@ -1,9 +1,6 @@
 # Cybersecurity-Internship-Task2
 
-# OS Security and Hardening – Learning Report
-
-Dhanush A  
-Aspiring Cybersecurity Student  
+# OS Security and Hardening – Learning Report 
 
 ## 🎯 Purpose of This Task
 This repository documents my learning and understanding of **Operating System (OS) Security fundamentals**.  

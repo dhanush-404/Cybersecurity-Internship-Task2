@@ -22,7 +22,7 @@ This task helped me build a strong foundation in **OS hardening concepts** as a 
 
 ## 📘 What I Learned (Knowledge Gained)
 
-### 1️⃣ Understanding User Accounts & Access Control
+###  Understanding User Accounts & Access Control
 I learned that:
 - Every operating system separates users to improve security
 - Normal users have limited access

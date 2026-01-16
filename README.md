@@ -12,9 +12,7 @@ This task helped me build a strong foundation in **OS hardening concepts** as a 
 
 ## 🖥️ Environment
 - Operating System: Linux (Ubuntu concepts) / Windows Security
-- Learning Level: Beginner
-- Platform: Self-learning + Internship task
-
+  
 ---
 
 ## 📘 What I Learned (Knowledge Gained)

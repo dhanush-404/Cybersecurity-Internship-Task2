@@ -32,4 +32,13 @@ Important commands I learned:
 ```bash
 whoami
 id
-cat /etc/passwd
+cat /etc/passwd 
+
+## 💻 OS Hardening Best Practices I Learned
+
+- Use strong passwords
+- Avoid using root unnecessarily
+- Disable unused services
+- Enable firewall
+- Keep the system updated
+- Follow least privilege principle

@@ -28,11 +28,18 @@ I learned that:
 - Normal users have limited access
 - The **root / administrator** user has full system control
 
-Important commands I learned:
-```bash
-whoami
-id
-cat /etc/passwd 
+Important commands I learned...
+
+- whoami
+- id
+- cat /etc/passwd
+- sudo efw enable
+- sudo efw status
+- ls -l
+- chmod
+- ps
+- sudo systemctl 
+
 
 ## 💻 OS Hardening Best Practices I Learned
 

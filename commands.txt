@@ -1,0 +1,12 @@
+whoami 		-> view current userenab
+who 		-> list logged in users
+ls -l		-> check file permissions
+chmod +x <filename> or chmod 755 <filename> -> give execute permissions
+sudo su 	-> switch to root admin
+sudo apt install ufw -> installing ufw
+sudo ufw enable -> enable firewall
+sudo ufw status -> firewall status
+ps aux		-> view runnning process
+top 	        -> real time process monitoring
+systemctl list-units --type=service ->list running services
+systemctl status apache2 	    ->check a specify service

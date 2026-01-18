@@ -33,7 +33,9 @@ Important commands I learned...
 - ls -l
 - chmod
 - ps
-- sudo systemctl 
+- sudo systemctl
+
+I've attached screenshots of these execution of commands in screenshots folder and commands are in commands.txt file 
 
 
 ## 💻 OS Hardening Best Practices I Learned
